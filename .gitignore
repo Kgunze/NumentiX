@@ -1,0 +1,27 @@
+# Ignore Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Ignore auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.vscode
+*.idea
+*.vs
+
+# Ignore PlayMode and Editor logs
+*.pidb
+*.unitypackage
+*.tlog
+
+# Optional: Ignore specific Unity settings (if working with multiple devs)
+ProjectSettings/EditorBuildSettings.asset
